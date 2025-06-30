@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ankita&#34;s chalknotes</title>
-    <link>https://behura.com/tags/</link>
+    <link>http://localhost:44171/tags/</link>
     <description>Recent content in Tags on Ankita&#34;s chalknotes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://behura.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44171/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Networking</title>
-      <link>https://behura.com/tags/networking/</link>
+      <link>http://localhost:44171/tags/networking/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/tags/networking/</guid>
+      <guid>http://localhost:44171/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>OSI Model</title>
-      <link>https://behura.com/tags/osi-model/</link>
+      <link>http://localhost:44171/tags/osi-model/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/tags/osi-model/</guid>
+      <guid>http://localhost:44171/tags/osi-model/</guid>
       <description></description>
     </item>
     <item>
       <title>TCP/IP</title>
-      <link>https://behura.com/tags/tcp/ip/</link>
+      <link>http://localhost:44171/tags/tcp/ip/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/tags/tcp/ip/</guid>
+      <guid>http://localhost:44171/tags/tcp/ip/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
-      <link>https://behura.com/tags/devops/</link>
+      <link>http://localhost:44171/tags/devops/</link>
       <pubDate>Sun, 22 Jun 2025 13:28:20 +0200</pubDate>
-      <guid>https://behura.com/tags/devops/</guid>
+      <guid>http://localhost:44171/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>OSI</title>
-      <link>https://behura.com/tags/osi/</link>
+      <link>http://localhost:44171/tags/osi/</link>
       <pubDate>Sun, 22 Jun 2025 13:28:20 +0200</pubDate>
-      <guid>https://behura.com/tags/osi/</guid>
+      <guid>http://localhost:44171/tags/osi/</guid>
       <description></description>
     </item>
     <item>
       <title>CI/CD</title>
-      <link>https://behura.com/tags/ci/cd/</link>
+      <link>http://localhost:44171/tags/ci/cd/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/tags/ci/cd/</guid>
+      <guid>http://localhost:44171/tags/ci/cd/</guid>
       <description></description>
     </item>
     <item>
       <title>Containers</title>
-      <link>https://behura.com/tags/containers/</link>
+      <link>http://localhost:44171/tags/containers/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/tags/containers/</guid>
+      <guid>http://localhost:44171/tags/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://behura.com/tags/docker/</link>
+      <link>http://localhost:44171/tags/docker/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/tags/docker/</guid>
+      <guid>http://localhost:44171/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://behura.com/tags/python/</link>
+      <link>http://localhost:44171/tags/python/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/tags/python/</guid>
+      <guid>http://localhost:44171/tags/python/</guid>
       <description></description>
     </item>
   </channel>
