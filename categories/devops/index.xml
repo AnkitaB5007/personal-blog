@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DevOps on Ankita&#34;s chalknotes</title>
-    <link>http://localhost:44171/categories/devops/</link>
+    <link>http://localhost:1313/categories/devops/</link>
     <description>Recent content in DevOps on Ankita&#34;s chalknotes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:44171/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debugging Docker Images and Containers - A Practical Guide</title>
-      <link>http://localhost:44171/posts/debug-docker-basics/</link>
+      <link>http://localhost:1313/posts/debug-docker-basics/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44171/posts/debug-docker-basics/</guid>
+      <guid>http://localhost:1313/posts/debug-docker-basics/</guid>
       <description>Step-by-step practical guide for building, debugging, inspecting, and deploying Docker containers, including transfer to edge devices like Orange Pi.</description>
     </item>
     <item>
       <title>What is DevOps? A Beginner&#39;s Guide</title>
-      <link>http://localhost:44171/posts/what-is-devops/</link>
+      <link>http://localhost:1313/posts/what-is-devops/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44171/posts/what-is-devops/</guid>
+      <guid>http://localhost:1313/posts/what-is-devops/</guid>
       <description>An overview of DevOps principles, best practices, and how to implement them in your projects using Python and GitHub Actions.</description>
     </item>
   </channel>

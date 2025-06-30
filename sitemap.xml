@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:44171/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/categories/networking/</loc>
+    <loc>http://localhost:1313/categories/networking/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/networking/</loc>
+    <loc>http://localhost:1313/tags/networking/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/osi-model/</loc>
+    <loc>http://localhost:1313/tags/osi-model/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/tcp/ip/</loc>
+    <loc>http://localhost:1313/tags/tcp/ip/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/posts/tcp-ip-model/</loc>
+    <loc>http://localhost:1313/posts/tcp-ip-model/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/devops/</loc>
+    <loc>http://localhost:1313/tags/devops/</loc>
     <lastmod>2025-06-22T13:28:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/osi/</loc>
+    <loc>http://localhost:1313/tags/osi/</loc>
     <lastmod>2025-06-22T13:28:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/posts/osi-model/</loc>
+    <loc>http://localhost:1313/posts/osi-model/</loc>
     <lastmod>2025-06-22T13:28:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/ci/cd/</loc>
+    <loc>http://localhost:1313/tags/ci/cd/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/containers/</loc>
+    <loc>http://localhost:1313/tags/containers/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/posts/debug-docker-basics/</loc>
+    <loc>http://localhost:1313/posts/debug-docker-basics/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/categories/devops/</loc>
+    <loc>http://localhost:1313/categories/devops/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44171/posts/what-is-devops/</loc>
+    <loc>http://localhost:1313/posts/what-is-devops/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>
