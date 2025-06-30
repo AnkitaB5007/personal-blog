@@ -1,0 +1,47 @@
+baseURL = 'https://behura.com/'
+languageCode = 'en-us'
+title = 'Ankita"s chalknotes'
+theme = "PaperMod"
+
+[params]
+  author = "Your Name"
+  showReadingTime = true
+  defaultTheme = "auto" # auto/dark/light
+  ShowCodeCopyButtons = true
+  ShowShareButtons = true
+  showtoc = true
+  tocopen = true
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 3
+
+[params.profileMode]
+  enabled = true
+  title = "whoamI"
+  subtitle = "AI Researcher | Automotive Speech Systems"
+  imageUrl = "images/avatar.jpg"
+  imageTitle = "Profile Picture"
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/AnkitaB5007"
+
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/ankita-behura-ba6579192/"
+
+[markup.highlight]
+  style = "monokai"
+  noClasses = false
