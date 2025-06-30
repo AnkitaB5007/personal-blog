@@ -42,6 +42,10 @@ theme = "PaperMod"
     name = "linkedin"
     url = "https://linkedin.com/in/ankita-behura-ba6579192/"
 
+[[params.socialIcons]]
+    name = "wordpress"
+    url = "https://anagramicblog.wordpress.com/"
+
 [markup.highlight]
   style = "monokai"
   noClasses = false
