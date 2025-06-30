@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevOps on Ankita&#34;s chalknotes</title>
+    <link>https://behura.com/tags/devops/</link>
+    <description>Recent content in DevOps on Ankita&#34;s chalknotes</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2025 13:28:20 +0200</lastBuildDate>
+    <atom:link href="https://behura.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understand OSI Model</title>
+      <link>https://behura.com/posts/osi-model/</link>
+      <pubDate>Sun, 22 Jun 2025 13:28:20 +0200</pubDate>
+      <guid>https://behura.com/posts/osi-model/</guid>
+      <description>A detailed breakdown of the OSI model&amp;rsquo;s key layers—Physical, Data-Link, and Presentation—and their respective protocols and limitations.</description>
+    </item>
+    <item>
+      <title>Debugging Docker Images and Containers - A Practical Guide</title>
+      <link>https://behura.com/posts/debug-docker-basics/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://behura.com/posts/debug-docker-basics/</guid>
+      <description>Step-by-step practical guide for building, debugging, inspecting, and deploying Docker containers, including transfer to edge devices like Orange Pi.</description>
+    </item>
+    <item>
+      <title>What is DevOps? A Beginner&#39;s Guide</title>
+      <link>https://behura.com/posts/what-is-devops/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://behura.com/posts/what-is-devops/</guid>
+      <description>An overview of DevOps principles, best practices, and how to implement them in your projects using Python and GitHub Actions.</description>
+    </item>
+  </channel>
+</rss>
