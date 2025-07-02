@@ -1,6 +1,6 @@
 ---
 date: '2025-07-02'
-draft: true
+draft: false
 title: 'What Are Messages in LLM Chat Interfaces'
 summary: "Understanding the role of messages in LLM chat interfaces, their structure, and how they facilitate communication between users and AI models."
 tags: ["LLM", "Chat Interfaces", "Messages"]
