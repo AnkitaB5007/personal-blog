@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Ankita&#34;s chalknotes</title>
+    <link>https://behura.com/categories/llm/</link>
+    <description>Recent content in LLM on Ankita&#34;s chalknotes</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://behura.com/categories/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Are Messages in LLM Chat Interfaces</title>
+      <link>https://behura.com/posts/what-are-messages-in-llm-chat-interfaces/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://behura.com/posts/what-are-messages-in-llm-chat-interfaces/</guid>
+      <description>Understanding the role of messages in LLM chat interfaces, their structure, and how they facilitate communication between users and AI models.</description>
+    </item>
+  </channel>
+</rss>

@@ -6,8 +6,15 @@
     <description>Recent content in Hi, I&#39;m Ankita on Ankita&#34;s chalknotes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://behura.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Are Messages in LLM Chat Interfaces</title>
+      <link>https://behura.com/posts/what-are-messages-in-llm-chat-interfaces/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://behura.com/posts/what-are-messages-in-llm-chat-interfaces/</guid>
+      <description>Understanding the role of messages in LLM chat interfaces, their structure, and how they facilitate communication between users and AI models.</description>
+    </item>
     <item>
       <title>Understand TCP/IP Model</title>
       <link>https://behura.com/posts/tcp-ip-model/</link>
