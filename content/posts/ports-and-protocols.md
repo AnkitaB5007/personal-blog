@@ -1,6 +1,6 @@
 ---
 title: "Protocols and Ports for DevOps"
-date: 2025-07-07
+date : '2025-07-08T10:13:28+02:00'
 draft: false
 summary: "A comprehensive guide to essential networking protocols and their port numbers in DevOps environments, covering HTTP, SSH, DNS, and more."
 tags: ["Ports", "Protocols", "Networking", "DevOps"]
