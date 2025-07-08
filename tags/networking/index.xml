@@ -10,15 +10,8 @@
     <atom:link href="https://behura.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Protocols and Ports for DevOps</title>
-      <link>https://behura.com/posts/x/</link>
-      <pubDate>Tue, 08 Jul 2025 10:13:28 +0200</pubDate>
-      <guid>https://behura.com/posts/x/</guid>
-      <description>A comprehensive guide to essential networking protocols and their port numbers in DevOps environments, covering HTTP, SSH, DNS, and more.</description>
-    </item>
-    <item>
-      <title>Protocols and Ports for DevOps</title>
       <link>https://behura.com/posts/ports-and-protocols/</link>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Jul 2025 10:13:28 +0200</pubDate>
       <guid>https://behura.com/posts/ports-and-protocols/</guid>
       <description>A comprehensive guide to essential networking protocols and their port numbers in DevOps environments, covering HTTP, SSH, DNS, and more.</description>
     </item>
