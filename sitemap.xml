@@ -3,15 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://behura.com/categories/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/tags/devops/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/categories/networking/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/tags/networking/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/tags/osi/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/tags/ports/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/posts/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/tags/protocols/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/posts/ports-and-protocols/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/tags/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/tags/tcp/ip/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://behura.com/posts/understand-osi-tcp-models/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://behura.com/categories/chat-interfaces/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://behura.com/tags/chat-interfaces/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://behura.com/categories/llm/</loc>
@@ -23,35 +56,14 @@
     <loc>https://behura.com/tags/messages/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/posts/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/tags/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://behura.com/posts/what-are-messages-in-llm-chat-interfaces/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/categories/networking/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/tags/networking/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://behura.com/tags/osi-model/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/tcp/ip/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://behura.com/posts/tcp-ip-model/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/tags/devops/</loc>
-    <lastmod>2025-06-22T13:28:20+02:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/tags/osi/</loc>
-    <lastmod>2025-06-22T13:28:20+02:00</lastmod>
   </url><url>
     <loc>https://behura.com/posts/osi-model/</loc>
     <lastmod>2025-06-22T13:28:20+02:00</lastmod>

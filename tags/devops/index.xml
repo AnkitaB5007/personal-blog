@@ -6,8 +6,22 @@
     <description>Recent content in DevOps on Ankita&#34;s chalknotes</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 13:28:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://behura.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protocols and Ports for DevOps</title>
+      <link>https://behura.com/posts/ports-and-protocols/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://behura.com/posts/ports-and-protocols/</guid>
+      <description>A comprehensive guide to essential networking protocols and their port numbers in DevOps environments, covering HTTP, SSH, DNS, and more.</description>
+    </item>
+    <item>
+      <title>Understand OSI and TCP/IP Models</title>
+      <link>https://behura.com/posts/understand-osi-tcp-models/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://behura.com/posts/understand-osi-tcp-models/</guid>
+      <description>An overview of the OSI and TCP/IP networking models, their layers, functions, and real-world applications.</description>
+    </item>
     <item>
       <title>Understand OSI Model</title>
       <link>https://behura.com/posts/osi-model/</link>

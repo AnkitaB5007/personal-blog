@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Ankita&#34;s chalknotes</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://behura.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Networking</title>
+      <link>https://behura.com/categories/networking/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://behura.com/categories/networking/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Chat Interfaces</title>
       <link>https://behura.com/categories/chat-interfaces/</link>
@@ -20,13 +27,6 @@
       <link>https://behura.com/categories/llm/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://behura.com/categories/llm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networking</title>
-      <link>https://behura.com/categories/networking/</link>
-      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/categories/networking/</guid>
       <description></description>
     </item>
     <item>
