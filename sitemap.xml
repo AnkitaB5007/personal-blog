@@ -2,91 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://behura.com/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/linux/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/linux-users-and-groups/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/permissions/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/system-administration/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/system-administration/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-18T22:14:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/devops/</loc>
     <lastmod>2025-07-08T10:33:02+02:00</lastmod>
   </url><url>
-    <loc>https://behura.com/posts/</loc>
+    <loc>http://localhost:1313/categories/networking/</loc>
     <lastmod>2025-07-08T10:33:02+02:00</lastmod>
   </url><url>
-    <loc>https://behura.com/categories/</loc>
+    <loc>http://localhost:1313/tags/networking/</loc>
+    <lastmod>2025-07-08T10:33:02+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/osi/</loc>
+    <lastmod>2025-07-08T10:33:02+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tcp/ip/</loc>
+    <lastmod>2025-07-08T10:33:02+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/understand-osi-tcp/</loc>
+    <lastmod>2025-07-08T10:33:02+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ports/</loc>
     <lastmod>2025-07-08T10:13:28+02:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/devops/</loc>
+    <loc>http://localhost:1313/tags/protocols/</loc>
     <lastmod>2025-07-08T10:13:28+02:00</lastmod>
   </url><url>
-    <loc>https://behura.com/categories/networking/</loc>
+    <loc>http://localhost:1313/posts/ports-and-protocols/</loc>
     <lastmod>2025-07-08T10:13:28+02:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/networking/</loc>
-    <lastmod>2025-07-08T10:13:28+02:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/tags/ports/</loc>
-    <lastmod>2025-07-08T10:13:28+02:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/tags/protocols/</loc>
-    <lastmod>2025-07-08T10:13:28+02:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/posts/ports-and-protocols/</loc>
-    <lastmod>2025-07-08T10:13:28+02:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/tags/</loc>
-    <lastmod>2025-07-08T10:13:28+02:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/tags/osi/</loc>
+    <loc>http://localhost:1313/posts/understand-osi-tcp-models/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/tcp/ip/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/posts/understand-osi-tcp-models/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://behura.com/categories/chat-interfaces/</loc>
+    <loc>http://localhost:1313/categories/chat-interfaces/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/chat-interfaces/</loc>
+    <loc>http://localhost:1313/tags/chat-interfaces/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/categories/llm/</loc>
+    <loc>http://localhost:1313/categories/llm/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/llm/</loc>
+    <loc>http://localhost:1313/tags/llm/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/messages/</loc>
+    <loc>http://localhost:1313/tags/messages/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/posts/what-are-messages-in-llm-chat-interfaces/</loc>
+    <loc>http://localhost:1313/posts/what-are-messages-in-llm-chat-interfaces/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/osi-model/</loc>
+    <loc>http://localhost:1313/tags/osi-model/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/posts/tcp-ip-model/</loc>
+    <loc>http://localhost:1313/posts/tcp-ip-model/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/posts/osi-model/</loc>
+    <loc>http://localhost:1313/posts/osi-model/</loc>
     <lastmod>2025-06-22T13:28:20+02:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/ci/cd/</loc>
+    <loc>http://localhost:1313/tags/ci/cd/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/containers/</loc>
+    <loc>http://localhost:1313/tags/containers/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/posts/debug-docker-basics/</loc>
+    <loc>http://localhost:1313/posts/debug-docker-basics/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/categories/devops/</loc>
+    <loc>http://localhost:1313/categories/devops/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://behura.com/posts/what-is-devops/</loc>
+    <loc>http://localhost:1313/posts/what-is-devops/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Ankita&#34;s chalknotes</title>
-    <link>https://behura.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Ankita&#34;s chalknotes</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 10:13:28 +0200</lastBuildDate>
-    <atom:link href="https://behura.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jul 2025 22:14:26 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/categories/linux/</link>
+      <pubDate>Fri, 18 Jul 2025 22:14:26 +0200</pubDate>
+      <guid>http://localhost:1313/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Administration</title>
+      <link>http://localhost:1313/categories/system-administration/</link>
+      <pubDate>Fri, 18 Jul 2025 22:14:26 +0200</pubDate>
+      <guid>http://localhost:1313/categories/system-administration/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Networking</title>
-      <link>https://behura.com/categories/networking/</link>
-      <pubDate>Tue, 08 Jul 2025 10:13:28 +0200</pubDate>
-      <guid>https://behura.com/categories/networking/</guid>
+      <link>http://localhost:1313/categories/networking/</link>
+      <pubDate>Tue, 08 Jul 2025 10:33:02 +0200</pubDate>
+      <guid>http://localhost:1313/categories/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Chat Interfaces</title>
-      <link>https://behura.com/categories/chat-interfaces/</link>
+      <link>http://localhost:1313/categories/chat-interfaces/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/categories/chat-interfaces/</guid>
+      <guid>http://localhost:1313/categories/chat-interfaces/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>https://behura.com/categories/llm/</link>
+      <link>http://localhost:1313/categories/llm/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/categories/llm/</guid>
+      <guid>http://localhost:1313/categories/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
-      <link>https://behura.com/categories/devops/</link>
+      <link>http://localhost:1313/categories/devops/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/categories/devops/</guid>
+      <guid>http://localhost:1313/categories/devops/</guid>
       <description></description>
     </item>
   </channel>

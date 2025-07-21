@@ -2,59 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hi, I&#39;m Ankita on Ankita&#34;s chalknotes</title>
-    <link>https://behura.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Hi, I&#39;m Ankita on Ankita&#34;s chalknotes</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 10:13:28 +0200</lastBuildDate>
-    <atom:link href="https://behura.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jul 2025 22:14:26 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Users and Groups</title>
+      <link>http://localhost:1313/posts/linux-users-and-groups/</link>
+      <pubDate>Fri, 18 Jul 2025 22:14:26 +0200</pubDate>
+      <guid>http://localhost:1313/posts/linux-users-and-groups/</guid>
+      <description>A technical reference for understanding and managing Linux user groups and file permissions, including commands, best practices, and security tips.</description>
+    </item>
+    <item>
+      <title>Understand OSI and TCP/IP Models</title>
+      <link>http://localhost:1313/posts/understand-osi-tcp/</link>
+      <pubDate>Tue, 08 Jul 2025 10:33:02 +0200</pubDate>
+      <guid>http://localhost:1313/posts/understand-osi-tcp/</guid>
+      <description>An overview of the OSI and TCP/IP networking models, their layers, functions, and real-world applications.</description>
+    </item>
     <item>
       <title>Protocols and Ports for DevOps</title>
-      <link>https://behura.com/posts/ports-and-protocols/</link>
+      <link>http://localhost:1313/posts/ports-and-protocols/</link>
       <pubDate>Tue, 08 Jul 2025 10:13:28 +0200</pubDate>
-      <guid>https://behura.com/posts/ports-and-protocols/</guid>
+      <guid>http://localhost:1313/posts/ports-and-protocols/</guid>
       <description>A comprehensive guide to essential networking protocols and their port numbers in DevOps environments, covering HTTP, SSH, DNS, and more.</description>
     </item>
     <item>
       <title>Understand OSI and TCP/IP Models</title>
-      <link>https://behura.com/posts/understand-osi-tcp-models/</link>
+      <link>http://localhost:1313/posts/understand-osi-tcp-models/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/posts/understand-osi-tcp-models/</guid>
+      <guid>http://localhost:1313/posts/understand-osi-tcp-models/</guid>
       <description>An overview of the OSI and TCP/IP networking models, their layers, functions, and real-world applications.</description>
     </item>
     <item>
       <title>What Are Messages in LLM Chat Interfaces</title>
-      <link>https://behura.com/posts/what-are-messages-in-llm-chat-interfaces/</link>
+      <link>http://localhost:1313/posts/what-are-messages-in-llm-chat-interfaces/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/posts/what-are-messages-in-llm-chat-interfaces/</guid>
+      <guid>http://localhost:1313/posts/what-are-messages-in-llm-chat-interfaces/</guid>
       <description>Understanding the role of messages in LLM chat interfaces, their structure, and how they facilitate communication between users and AI models.</description>
     </item>
     <item>
       <title>Understand TCP/IP Model</title>
-      <link>https://behura.com/posts/tcp-ip-model/</link>
+      <link>http://localhost:1313/posts/tcp-ip-model/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/posts/tcp-ip-model/</guid>
+      <guid>http://localhost:1313/posts/tcp-ip-model/</guid>
       <description>An overview of the TCP/IP model&amp;rsquo;s layers, comparison with OSI model, and explanation of data encapsulation.</description>
     </item>
     <item>
       <title>Understand OSI Model</title>
-      <link>https://behura.com/posts/osi-model/</link>
+      <link>http://localhost:1313/posts/osi-model/</link>
       <pubDate>Sun, 22 Jun 2025 13:28:20 +0200</pubDate>
-      <guid>https://behura.com/posts/osi-model/</guid>
+      <guid>http://localhost:1313/posts/osi-model/</guid>
       <description>A detailed breakdown of the OSI model&amp;rsquo;s key layers—Physical, Data-Link, and Presentation—and their respective protocols and limitations.</description>
     </item>
     <item>
       <title>Debugging Docker Images and Containers - A Practical Guide</title>
-      <link>https://behura.com/posts/debug-docker-basics/</link>
+      <link>http://localhost:1313/posts/debug-docker-basics/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/posts/debug-docker-basics/</guid>
+      <guid>http://localhost:1313/posts/debug-docker-basics/</guid>
       <description>Step-by-step practical guide for building, debugging, inspecting, and deploying Docker containers, including transfer to edge devices like Orange Pi.</description>
     </item>
     <item>
       <title>What is DevOps? A Beginner&#39;s Guide</title>
-      <link>https://behura.com/posts/what-is-devops/</link>
+      <link>http://localhost:1313/posts/what-is-devops/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://behura.com/posts/what-is-devops/</guid>
+      <guid>http://localhost:1313/posts/what-is-devops/</guid>
       <description>An overview of DevOps principles, best practices, and how to implement them in your projects using Python and GitHub Actions.</description>
     </item>
   </channel>
