@@ -10,7 +10,7 @@ categories : ['Linux', 'System Administration']
 
 ---
 
-# 🧠 Linux User Groups & File Permissions
+# Linux User Groups & File Permissions
 
 This guide serves as a structured, technical overview of **Linux user groups**, **permissions**, and related command-line utilities. It is organized for memory recall and hands-on administration.
 
